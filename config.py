@@ -1,0 +1,5 @@
+host = "localhost"
+port = "8800"
+user = "postgres"
+password = "12345"
+db_name = "resume"
